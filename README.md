@@ -25,7 +25,7 @@ Course website: https://berkeley-cs182.github.io/fa25/
 ## 🧠 Topics Covered
 
 The curriculum focuses on the theoretical and practical aspects of deep learning. Key highlights include:
-- **Optimization Theory**: Beyond basic SGD—implicit regularization, muP, and MuON.
+- **Optimization Theory**: Beyond basic SGD — Momentum, Adam, AdamW, implicit regularization, muP, and MuON.
 - **Architectures**: From ResNets and GNNs to the latest in SSMs and Transformers.
 - **Modern LLM Techniques**: PEFT (LoRA), In-context learning, Meta-learning, and Post-training.
 - **Generative AI**: VAEs, Diffusion Models.
