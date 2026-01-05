@@ -42,5 +42,5 @@ Please do not copy or submit any part of this work as your own coursework.
 ## 📖 References
 
 - CS182/282A: Deep Neural Networks (UC Berkeley)
-- Course lecture slides and official materials
+- Course lecture notes
 - Relevant research papers and textbooks
